@@ -17,6 +17,7 @@ namespace MergeDataAndDoc
             {
                 inputFileName = args[0];
                 outputFileName = args[1];
+                Console.WriteLine("The file has been loaded");
             }
 
             using (StreamReader inputFile = new StreamReader(inputFileName))
