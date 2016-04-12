@@ -1,0 +1,16 @@
+C:\Users\Jimmy\Desktop\敏捷軟體\word合併\MergeDataAndDoc\MergeDataAndDoc\bin\Debug\MergeDataAndDoc.exe.config
+C:\Users\Jimmy\Desktop\敏捷軟體\word合併\MergeDataAndDoc\MergeDataAndDoc\bin\Debug\MergeDataAndDoc.exe
+C:\Users\Jimmy\Desktop\敏捷軟體\word合併\MergeDataAndDoc\MergeDataAndDoc\bin\Debug\MergeDataAndDoc.pdb
+C:\Users\Jimmy\Desktop\敏捷軟體\word合併\MergeDataAndDoc\MergeDataAndDoc\obj\Debug\MergeDataAndDoc.exe
+C:\Users\Jimmy\Desktop\敏捷軟體\word合併\MergeDataAndDoc\MergeDataAndDoc\obj\Debug\MergeDataAndDoc.pdb
+C:\Users\User\Desktop\word合併\MergeDataAndDoc\MergeDataAndDoc\bin\Debug\MergeDataAndDoc.exe.config
+C:\Users\User\Desktop\word合併\MergeDataAndDoc\MergeDataAndDoc\obj\Debug\MergeDataAndDoc.exe
+C:\Users\User\Desktop\word合併\MergeDataAndDoc\MergeDataAndDoc\obj\Debug\MergeDataAndDoc.pdb
+C:\Users\User\Desktop\MergeDataAndDoc\MergeDataAndDoc\bin\Debug\MergeDataAndDoc.exe.config
+C:\Users\User\Desktop\MergeDataAndDoc\MergeDataAndDoc\obj\Debug\MergeDataAndDoc.exe
+C:\Users\User\Desktop\MergeDataAndDoc\MergeDataAndDoc\obj\Debug\MergeDataAndDoc.pdb
+C:\Users\User\Desktop\MergeDataAndDoc\MergeDataAndDoc\bin\Debug\MergeDataAndDoc.exe
+C:\Users\User\Desktop\MergeDataAndDoc\MergeDataAndDoc\bin\Debug\MergeDataAndDoc.pdb
+C:\Users\User\Desktop\MergeDataAndDoc\MergeDataAndDoc\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\MergeDataAndDoc\MergeDataAndDoc\bin\Debug\nunit.framework.xml
+C:\Users\User\Desktop\MergeDataAndDoc\MergeDataAndDoc\obj\Debug\MergeDataAndDoc.csprojResolveAssemblyReference.cache
